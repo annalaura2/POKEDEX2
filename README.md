@@ -21,7 +21,7 @@ A aplicação utiliza conceitos avançados de JavaScript para buscar e exibir os
 
 ## LINK PARA VISUALIZAÇÃO
 
-(POKEDEX)[https://annalaura2.github.io/POKEDEX2/]
+[POKEDEX](https://annalaura2.github.io/POKEDEX2/)
 
 ## Objetivos do Projeto
 
